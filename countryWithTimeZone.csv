@@ -1,0 +1,253 @@
+1,AC,Ascension Island,null
+2,AD,Andorra,Europe/Andorra
+3,AE,United Arab Emirates,Asia/Dubai
+4,AF,Afghanistan,Asia/Kabul
+5,AG,Antigua & Barbuda,America/Antigua
+6,AI,Anguilla,America/Anguilla
+7,AL,Albania,Europe/Tirane
+8,AM,Armenia,Asia/Yerevan
+9,AO,Angola,Africa/Luanda
+10,AQ,Antarctica,Antarctica/McMurdo
+11,AR,Argentina,America/Argentina/Buenos_Aires
+12,AS,American Samoa,Pacific/Pago_Pago
+13,AT,Austria,Europe/Vienna
+14,AU,Australia,Australia/Lord_Howe
+15,AW,Aruba,America/Aruba
+16,AX,Åland Islands,Europe/Mariehamn
+17,AZ,Azerbaijan,Asia/Baku
+18,BA,Bosnia & Herzegovina,Europe/Sarajevo
+19,BB,Barbados,America/Barbados
+20,BD,Bangladesh,Asia/Dhaka
+21,BE,Belgium,Europe/Brussels
+22,BF,Burkina Faso,Africa/Ouagadougou
+23,BG,Bulgaria,Europe/Sofia
+24,BH,Bahrain,Asia/Bahrain
+25,BI,Burundi,Africa/Bujumbura
+26,BJ,Benin,Africa/Porto-Novo
+27,BL,St. Barthélemy,America/St_Barthelemy
+28,BM,Bermuda,Atlantic/Bermuda
+29,BN,Brunei,Asia/Brunei
+30,BO,Bolivia,America/La_Paz
+31,BQ,Caribbean Netherlands,America/Kralendijk
+32,BR,Brazil,America/Noronha
+33,BS,Bahamas,America/Nassau
+34,BT,Bhutan,Asia/Thimphu
+35,BW,Botswana,Africa/Gaborone
+36,BY,Belarus,Europe/Minsk
+37,BZ,Belize,America/Belize
+38,CA,Canada,America/St_Johns
+39,CC,Cocos (Keeling) Islands,Indian/Cocos
+40,CD,Congo - Kinshasa,Africa/Kinshasa
+41,CF,Central African Republic,Africa/Bangui
+42,CG,Congo - Brazzaville,Africa/Brazzaville
+43,CH,Switzerland,Europe/Zurich
+44,CI,Côte d’Ivoire,Africa/Abidjan
+45,CK,Cook Islands,Pacific/Rarotonga
+46,CL,Chile,America/Santiago
+47,CM,Cameroon,Africa/Douala
+48,CN,China,Asia/Shanghai
+49,CO,Colombia,America/Bogota
+50,CR,Costa Rica,America/Costa_Rica
+51,CU,Cuba,America/Havana
+52,CV,Cape Verde,Atlantic/Cape_Verde
+53,CW,Curaçao,America/Curacao
+54,CX,Christmas Island,Indian/Christmas
+55,CY,Cyprus,Asia/Nicosia
+56,CZ,Czech Republic,Europe/Prague
+57,DE,Germany,Europe/Berlin
+58,DG,Diego Garcia,null
+59,DJ,Djibouti,Africa/Djibouti
+60,DK,Denmark,Europe/Copenhagen
+61,DM,Dominica,America/Dominica
+62,DO,Dominican Republic,America/Santo_Domingo
+63,DZ,Algeria,Africa/Algiers
+64,EA,Ceuta & Melilla,null
+65,EC,Ecuador,America/Guayaquil
+66,EE,Estonia,Europe/Tallinn
+67,EG,Egypt,Africa/Cairo
+68,EH,Western Sahara,Africa/El_Aaiun
+69,ER,Eritrea,Africa/Asmara
+70,ES,Spain,Europe/Madrid
+71,ET,Ethiopia,Africa/Addis_Ababa
+72,FI,Finland,Europe/Helsinki
+73,FJ,Fiji,Pacific/Fiji
+74,FK,Falkland Islands,Atlantic/Stanley
+75,FM,Micronesia,Pacific/Chuuk
+76,FO,Faroe Islands,Atlantic/Faroe
+77,FR,France,Europe/Paris
+78,GA,Gabon,Africa/Libreville
+79,GB,United Kingdom,Europe/London
+80,GD,Grenada,America/Grenada
+81,GE,Georgia,Asia/Tbilisi
+82,GF,French Guiana,America/Cayenne
+83,GG,Guernsey,Europe/Guernsey
+84,GH,Ghana,Africa/Accra
+85,GI,Gibraltar,Europe/Gibraltar
+86,GL,Greenland,America/Godthab
+87,GM,Gambia,Africa/Banjul
+88,GN,Guinea,Africa/Conakry
+89,GP,Guadeloupe,America/Guadeloupe
+90,GQ,Equatorial Guinea,Africa/Malabo
+91,GR,Greece,Europe/Athens
+92,GS,South Georgia & South Sandwich Islands,Atlantic/South_Georgia
+93,GT,Guatemala,America/Guatemala
+94,GU,Guam,Pacific/Guam
+95,GW,Guinea-Bissau,Africa/Bissau
+96,GY,Guyana,America/Guyana
+97,HK,Hong Kong SAR China,Asia/Hong_Kong
+98,HN,Honduras,America/Tegucigalpa
+99,HR,Croatia,Europe/Zagreb
+100,HT,Haiti,America/Port-au-Prince
+101,HU,Hungary,Europe/Budapest
+102,IC,Canary Islands,null
+103,ID,Indonesia,Asia/Jakarta
+104,IE,Ireland,Europe/Dublin
+105,IL,Israel,Asia/Jerusalem
+106,IM,Isle of Man,Europe/Isle_of_Man
+107,IN,India,Asia/Kolkata
+108,IO,British Indian Ocean Territory,Indian/Chagos
+109,IQ,Iraq,Asia/Baghdad
+110,IR,Iran,Asia/Tehran
+111,IS,Iceland,Atlantic/Reykjavik
+112,IT,Italy,Europe/Rome
+113,JE,Jersey,Europe/Jersey
+114,JM,Jamaica,America/Jamaica
+115,JO,Jordan,Asia/Amman
+116,JP,Japan,Asia/Tokyo
+117,KE,Kenya,Africa/Nairobi
+118,KG,Kyrgyzstan,Asia/Bishkek
+119,KH,Cambodia,Asia/Phnom_Penh
+120,KI,Kiribati,Pacific/Tarawa
+121,KM,Comoros,Indian/Comoro
+122,KN,St. Kitts & Nevis,America/St_Kitts
+123,KP,North Korea,Asia/Pyongyang
+124,KR,South Korea,Asia/Seoul
+125,KW,Kuwait,Asia/Kuwait
+126,KY,Cayman Islands,America/Cayman
+127,KZ,Kazakhstan,Asia/Almaty
+128,LA,Laos,Asia/Vientiane
+129,LB,Lebanon,Asia/Beirut
+130,LC,St. Lucia,America/St_Lucia
+131,LI,Liechtenstein,Europe/Vaduz
+132,LK,Sri Lanka,Asia/Colombo
+133,LR,Liberia,Africa/Monrovia
+134,LS,Lesotho,Africa/Maseru
+135,LT,Lithuania,Europe/Vilnius
+136,LU,Luxembourg,Europe/Luxembourg
+137,LV,Latvia,Europe/Riga
+138,LY,Libya,Africa/Tripoli
+139,MA,Morocco,Africa/Casablanca
+140,MC,Monaco,Europe/Monaco
+141,MD,Moldova,Europe/Chisinau
+142,ME,Montenegro,Europe/Podgorica
+143,MF,St. Martin,America/Marigot
+144,MG,Madagascar,Indian/Antananarivo
+145,MH,Marshall Islands,Pacific/Majuro
+146,MK,Macedonia,Europe/Skopje
+147,ML,Mali,Africa/Bamako
+148,MM,Myanmar (Burma),Asia/Yangon
+149,MN,Mongolia,Asia/Ulaanbaatar
+150,MO,Macau SAR China,Asia/Macau
+151,MP,Northern Mariana Islands,Pacific/Saipan
+152,MQ,Martinique,America/Martinique
+153,MR,Mauritania,Africa/Nouakchott
+154,MS,Montserrat,America/Montserrat
+155,MT,Malta,Europe/Malta
+156,MU,Mauritius,Indian/Mauritius
+157,MV,Maldives,Indian/Maldives
+158,MW,Malawi,Africa/Blantyre
+159,MX,Mexico,America/Mexico_City
+160,MY,Malaysia,Asia/Kuala_Lumpur
+161,MZ,Mozambique,Africa/Maputo
+162,NA,Namibia,Africa/Windhoek
+163,NC,New Caledonia,Pacific/Noumea
+164,NE,Niger,Africa/Niamey
+165,NF,Norfolk Island,Pacific/Norfolk
+166,NG,Nigeria,Africa/Lagos
+167,NI,Nicaragua,America/Managua
+168,NL,Netherlands,Europe/Amsterdam
+169,NO,Norway,Europe/Oslo
+170,NP,Nepal,Asia/Kathmandu
+171,NR,Nauru,Pacific/Nauru
+172,NU,Niue,Pacific/Niue
+173,NZ,New Zealand,Pacific/Auckland
+174,OM,Oman,Asia/Muscat
+175,PA,Panama,America/Panama
+176,PE,Peru,America/Lima
+177,PF,French Polynesia,Pacific/Tahiti
+178,PG,Papua New Guinea,Pacific/Port_Moresby
+179,PH,Philippines,Asia/Manila
+180,PK,Pakistan,Asia/Karachi
+181,PL,Poland,Europe/Warsaw
+182,PM,St. Pierre & Miquelon,America/Miquelon
+183,PN,Pitcairn Islands,Pacific/Pitcairn
+184,PR,Puerto Rico,America/Puerto_Rico
+185,PS,Palestinian Territories,Asia/Gaza
+186,PT,Portugal,Europe/Lisbon
+187,PW,Palau,Pacific/Palau
+188,PY,Paraguay,America/Asuncion
+189,QA,Qatar,Asia/Qatar
+190,RE,Réunion,Indian/Reunion
+191,RO,Romania,Europe/Bucharest
+192,RS,Serbia,Europe/Belgrade
+193,RU,Russia,Europe/Kaliningrad
+194,RW,Rwanda,Africa/Kigali
+195,SA,Saudi Arabia,Asia/Riyadh
+196,SB,Solomon Islands,Pacific/Guadalcanal
+197,SC,Seychelles,Indian/Mahe
+198,SD,Sudan,Africa/Khartoum
+199,SE,Sweden,Europe/Stockholm
+200,SG,Singapore,Asia/Singapore
+201,SH,St. Helena,Atlantic/St_Helena
+202,SI,Slovenia,Europe/Ljubljana
+203,SJ,Svalbard & Jan Mayen,Arctic/Longyearbyen
+204,SK,Slovakia,Europe/Bratislava
+205,SL,Sierra Leone,Africa/Freetown
+206,SM,San Marino,Europe/San_Marino
+207,SN,Senegal,Africa/Dakar
+208,SO,Somalia,Africa/Mogadishu
+209,SR,Suriname,America/Paramaribo
+210,SS,South Sudan,Africa/Juba
+211,ST,São Tomé & Príncipe,Africa/Sao_Tome
+212,SV,El Salvador,America/El_Salvador
+213,SX,Sint Maarten,America/Lower_Princes
+214,SY,Syria,Asia/Damascus
+215,SZ,Swaziland,Africa/Mbabane
+216,TA,Tristan da Cunha,null
+217,TC,Turks & Caicos Islands,America/Grand_Turk
+218,TD,Chad,Africa/Ndjamena
+219,TF,French Southern Territories,Indian/Kerguelen
+220,TG,Togo,Africa/Lome
+221,TH,Thailand,Asia/Bangkok
+222,TJ,Tajikistan,Asia/Dushanbe
+223,TK,Tokelau,Pacific/Fakaofo
+224,TL,Timor-Leste,Asia/Dili
+225,TM,Turkmenistan,Asia/Ashgabat
+226,TN,Tunisia,Africa/Tunis
+227,TO,Tonga,Pacific/Tongatapu
+228,TR,Turkey,Europe/Istanbul
+229,TT,Trinidad & Tobago,America/Port_of_Spain
+230,TV,Tuvalu,Pacific/Funafuti
+231,TW,Taiwan,Asia/Taipei
+232,TZ,Tanzania,Africa/Dar_es_Salaam
+233,UA,Ukraine,Europe/Kiev
+234,UG,Uganda,Africa/Kampala
+235,UM,U.S. Outlying Islands,Pacific/Midway
+236,US,United States,America/New_York
+237,UY,Uruguay,America/Montevideo
+238,UZ,Uzbekistan,Asia/Samarkand
+239,VA,Vatican City,Europe/Vatican
+240,VC,St. Vincent & Grenadines,America/St_Vincent
+241,VE,Venezuela,America/Caracas
+242,VG,British Virgin Islands,America/Tortola
+243,VI,U.S. Virgin Islands,America/St_Thomas
+244,VN,Vietnam,Asia/Ho_Chi_Minh
+245,VU,Vanuatu,Pacific/Efate
+246,WF,Wallis & Futuna,Pacific/Wallis
+247,WS,Samoa,Pacific/Apia
+248,XK,Kosovo,null
+249,YE,Yemen,Asia/Aden
+250,YT,Mayotte,Indian/Mayotte
+251,ZA,South Africa,Africa/Johannesburg
+252,ZM,Zambia,Africa/Lusaka
+253,ZW,Zimbabwe,Africa/Harare
